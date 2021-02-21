@@ -26,10 +26,10 @@ Preview the prototype.
 ![output](./static/img/j4.jpg)
 
 ## WIREFRAME:
-![output](./static/img/j5.jpg)
+![output](./static/img/j6.jpg)
 
 ## PROTOTYPE:
-![output](./static/img/j6.jpg)
+![output](./static/img/j5.jpg)
 
 ## RESULT:
 Thus a uxdesign website is designed and wireframe for a product development of companywebsite.
